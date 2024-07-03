@@ -1,0 +1,6 @@
+- 👋 Hi, I’m a Frontend dev.
+- 👀 I’m interested in building responsive websites with a lot of animation.
+- 🌱 I’m currently learning SASS and I want to master full-stack development.
+- 💞️ I’m looking to collaborate on open-source projects 
+- 📫 How to reach me: I currently do not have a perfect portfolio website I built one but it didn't satisfy me, so I'm going to build one when I finish learning SASS.
+- ⚡ Fun fact: I think I'm going to be the first Full-stack dev in my country :). 
